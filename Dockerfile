@@ -23,4 +23,3 @@ COPY conf /code/conf
 WORKDIR /code/backend
 
 EXPOSE 8080
-
